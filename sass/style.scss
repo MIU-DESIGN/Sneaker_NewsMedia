@@ -132,10 +132,9 @@
   object-fit: cover;
 }
 
-.pickup {
+#pickup {
   padding-top: 100px;
 }
-
 .pickup__title {
   margin-bottom: 30px;
 }
@@ -169,7 +168,7 @@
   right: 20px;
 }
 
-.feature {
+#feature {
   padding: 100px 0 50px;
 }
 .feature__title {
@@ -219,7 +218,7 @@
 }
 
 // コンタクトセクション
-.contact {
+#contact {
   background-color: #121212;
   padding: 50px 0;
   color: #fff;
